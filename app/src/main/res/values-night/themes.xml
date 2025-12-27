@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Window background -->
+        <item name="android:windowBackground">@android:color/white</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Navigation bar -->
+        <item name="android:navigationBarColor">@android:color/white</item>
+<!--        <item name="android:windowLightNavigationBar">true</item>-->
+
+        <!-- Fullscreen -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+</resources>
